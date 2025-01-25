@@ -3,7 +3,7 @@
  * Public key (uncompressed) 512 bits
  * Public key (compressed) 512 bits
  * Hashed public key 256 bits
- * Address 106 bits
+ * Address 160 bits
  * 8 bits = 1 bytes
  * 4 bits = 1 HEX
 */
